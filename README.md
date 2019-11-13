@@ -11,6 +11,13 @@ In this lesson, we'll review all the guidelines and specifications for the final
 * Understand all required deliverables
 * Understand what constitutes a successful project
 
+## Content of this Repository
+
+* Mod3_Project.ipynb - Juptyer notebook containing data and analysis done to complete this project
+* functions.py - python file containing functions to use in statistical analysis
+* Northwind_small.sqlite - SQL database containing the Northwind dataset used in our analysis
+
+
 ### Final Project Summary
 
 Another module down--you're half way there!
